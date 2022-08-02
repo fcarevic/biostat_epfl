@@ -1,0 +1,23 @@
+Dataset:  pillar_stability.dat
+
+Source: R.K. Wattimena, S. Kramadibrata, I.D. Sidi, M.A. Azizi (2013). 
+"Developing Coal Pillar Statbility Chart Using Logistic Regression,"
+International Journal of Rock Mechanics & Mining Sciences," Vol. 58,
+pp. 55-60.
+
+Description: Logistic Regrssion relating Coal pillaar stability (Yes/No)
+to width/height ratio and Strength/Stress ratio for pillars from 29 mine seams
+
+Variables/Columns
+Pillar ID   7-8
+Mine Seam  9-38
+Depth (meters) 40-46
+Height (meters)  48-54
+Width (meters)  56-62
+width/height ratio  64-70 
+Roadway width  (meters)  72-78
+Uniaxial compression strength  (MPa)  80-86
+Strength  (MPa)  88-94
+Stress (MPa)    96-102
+Strength/Stress ratio   104-110
+Stability   118   /* 1=Yes  0=No  */
